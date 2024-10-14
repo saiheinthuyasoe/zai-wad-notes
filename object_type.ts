@@ -1,4 +1,4 @@
-// Object type variable
+// Object type (object)
 
 // create type for object
 type user = {
@@ -19,7 +19,7 @@ user1 = {
 type userx = {
     name: string,
     age: number,
-    gender?: string
+    gender?
 }
 
 // use type for object with optional variable

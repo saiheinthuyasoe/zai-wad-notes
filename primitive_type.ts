@@ -1,8 +1,8 @@
-// Run: tsc hello.ts
-// Run: tsc --noEmitOnError hello.ts
-// Run: hello.js (node hello.js) in hello.js file directory
+// Run: tsc primitive_type.ts
+// Run: tsc --noEmitOnError primitive_type.ts
+// Run: primitive_type.js (node hello.js) in primitive_type.js file directory
 
-// Primitive type variable
+// Primitive type variable (string, number, boolean, null, undefined, symbol, bigint)
 type hello = string;
 let greeting : hello;
 let userName: string | number;
