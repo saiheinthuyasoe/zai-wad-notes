@@ -1,7 +1,6 @@
-#Notes For TypeScript 
+# Notes For TypeScript 
 
-##There are many kind of types as follow:
-
+## There are many kind of types as follow:
 1. Primitive Type
 2. Object Type
 3. Function Type
